@@ -1,5 +1,6 @@
 # Misere-Nim
 Author: Sheetal Mannan
+
 Language: C(Hash tables)
 
 Nim is a two-player strategy game played with row of matches (or stacks of coins, or piles ofstones).
